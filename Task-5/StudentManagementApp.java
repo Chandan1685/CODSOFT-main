@@ -9,7 +9,7 @@ import java.util.Scanner;
 //                   student records. It also includes input validation to ensure data quality.     //
 //                   The application is executed in a continuous loop, providing a user-friendly    // 
 //                    way to manage student information.                                            //
- //  Author :             Gore Bharati                                                              //
+ //  Author :            Chandan Kumar                                                              //
 //  Date :               05/10/2023                                                                 //
 //  Update Date :        12/10/2023                                                             //
 //////////////////////////////////////////////////////////////////////////////////////////////////
