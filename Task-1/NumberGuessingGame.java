@@ -8,7 +8,7 @@ import java.util.Random;
 //                    The player tries to guess a randomly generated number                     //
 //                     within a specified range. The game provides hints and                    //
 //                     tracks the number of attempts and total score.                           //
-//  Author :             Gore Bharati                                                           //
+//  Author :             Chandan Kumar                                                           //
 //  Date :               01/10/2023                                                             //
 //  Update Date :        08/10/2023                                                             //
 //////////////////////////////////////////////////////////////////////////////////////////////////
