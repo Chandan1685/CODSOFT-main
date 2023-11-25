@@ -10,7 +10,7 @@ import java.util.Scanner;
 //                       validates the input and provides results including the total marks, average
 //                       percentage, and grade. ANSI escape codes are used for text formatting to enhance
 //                       the user interface.
-//  Author :           Gore Bharati 
+//  Author :           Chandan Kumar 
 //  Date :               02/10/2023
 //  Update Date :        09/10/2023
 //
